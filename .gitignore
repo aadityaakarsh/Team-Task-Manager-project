@@ -1,10 +1,12 @@
 # Backend
 **/target/
 **/.idea/
+**/resources/
 
 # Frontend
 **/node_modules/
 **/dist/
+
 
 # Env files
 **/.env
